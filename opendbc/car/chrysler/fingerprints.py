@@ -402,6 +402,7 @@ FW_VERSIONS = {
   },
   CAR.RAM_1500_5TH_GEN: {
     (Ecu.combinationMeter, 0x742, None): [
+      b'68453485AC',
       b'68294051AG',
       b'68294051AI',
       b'68294052AG',
@@ -462,6 +463,7 @@ FW_VERSIONS = {
       b'68631943AB',
     ],
     (Ecu.srs, 0x744, None): [
+      b'68500728AA',
       b'68428609AB',
       b'68441329AB',
       b'68473844AB',
@@ -471,6 +473,7 @@ FW_VERSIONS = {
       b'68615034AA',
     ],
     (Ecu.abs, 0x747, None): [
+      b'68728727AA',
       b'68292406AG',
       b'68292406AH',
       b'68432418AB',
@@ -490,6 +493,7 @@ FW_VERSIONS = {
       b'68586307AC',
     ],
     (Ecu.fwdRadar, 0x753, None): [
+      b'68475160AE',
       b'04672892AB',
       b'04672932AB',
       b'04672932AC',
@@ -506,6 +510,7 @@ FW_VERSIONS = {
       b'68475160AG',
     ],
     (Ecu.eps, 0x75a, None): [
+      b'68466110AA',
       b'21590101AA',
       b'21590101AB',
       b'22490101AB',
@@ -538,6 +543,7 @@ FW_VERSIONS = {
       b'68585112AB',
     ],
     (Ecu.engine, 0x7e0, None): [
+      b'68500631AF ',
       b'05035699AG ',
       b'05035841AC ',
       b'05035841AD ',
@@ -614,6 +620,7 @@ FW_VERSIONS = {
       b'68629926AC ',
     ],
     (Ecu.transmission, 0x7e1, None): [
+      b'68502996AC',
       b'05035706AD',
       b'05035842AB',
       b'05036069AA',
